@@ -3,3 +3,4 @@
 //added symtoms section in admin panel.
 //integrated tabs section in dashboard
 //made basic toolbar for doctors
+//added 2 ways payment auth
